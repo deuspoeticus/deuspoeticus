@@ -4,6 +4,4 @@
   </picture>
 </div>
 
-<div align="center">
-  <video src="assets/chao.mp4" autoplay loop muted playsinline width="500"></video>
-</div>
+<img align="center" src="assets/output-750.gif" alt="Clifford Attractor Matrix" width="350" style="border: 1px solid #333;">
