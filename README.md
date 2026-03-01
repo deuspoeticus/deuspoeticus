@@ -30,15 +30,14 @@
   <li><b>[ACTIVE]</b> Engineering <b>The Digital Exorcist</b>: A browser-based generative image corruption engine utilizing WebAssembly and local AI models.</li>
   <li><b>[ACTIVE]</b> Developing a raw, audio-reactive video glitching tool manipulating video packets directly in <b>C</b> via the FFmpeg API.</li>
   <li><b>[ACTIVE]</b> Building <b>GridSmith</b>, a pixel art editor crafted in JavaScript.</li>
-  <li><b>[PENDING]</b> Shifting neural load towards Cognitive Science and Computational Linguistics (Paris, Autumn 2026).</li>
 </ul>
 
 <hr>
 
-<h2>> TECHNICAL_ARSENAL</h2>
+<h2>> TECHNICAL_STACK</h2>
 <blockquote>
-  <p><b>LANGUAGES_</b> <br> C &nbsp;•&nbsp; Rust &nbsp;•&nbsp; WebAssembly &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; Python &nbsp;•&nbsp; GLSL</p>
-  <p><b>SYS_TOOLS_</b> <br> p5.js &nbsp;•&nbsp; WebGL &nbsp;•&nbsp; FFmpeg API &nbsp;•&nbsp; Git &nbsp;•&nbsp; LaTeX</p>
+  <p><b>LANGUAGES_</b> <br> JavaScript &nbsp;•&nbsp; Rust &nbsp;•&nbsp; WebAssembly &nbsp;•&nbsp; GLSL &nbsp;•&nbsp; Python</p>
+  <p><b>SYS_TOOLS_</b> <br> WebGL &nbsp;•&nbsp; FFmpeg API &nbsp;•&nbsp; Git &nbsp;•&nbsp; LaTeX</p>
   <p><b>DOMAINS_</b> <br> Generative Art &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; Shader Programming &nbsp;•&nbsp; Semiotics & Linguistics &nbsp;•&nbsp; Web3</p>
 </blockquote>
 
@@ -74,12 +73,6 @@
 </table>
 
 <hr>
-
-<h2>> TRANSMISSION_LOGS</h2>
-<ul>
-  <li><b>Art & Theory:</b> Guest Editor-in-Chief for the generative art issue of <i>Buzdokuz</i> (2025).</li>
-  <li><b>Linguistic Transfer:</b> <i>Le Bal des folles</i> by Victoria Mas (Translated from French to Turkish, 2025).</li>
-</ul>
 
 <br><br>
 
