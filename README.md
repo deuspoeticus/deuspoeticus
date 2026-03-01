@@ -13,10 +13,14 @@
 <div>
   <img align="right" src="./assets/chao-750.gif" alt="Clifford Attractor Matrix visual" width="320" style="border: 1px solid #444; border-radius: 4px; margin: 0 0 20px 20px;">
 
+
+
   <h3>> IDENTIFICATION</h3>
   <p>
     i do languages
   </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=deuspoeticus" alt="Test Stats" />
   
 </div>
 
