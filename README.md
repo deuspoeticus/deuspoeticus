@@ -13,12 +13,12 @@
 <img align="center" src="./assets/chao-750.gif" alt="ORDO AB CHAO" width="33%">
 </div>
 
-  <h2>> STATS_</h3>
+<h2>> STATS_</h3>
 
-  <p align="center">
+<div align="center">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=deuspoeticus&theme=radical&hide_border=true&border_radius=5&hide_total_contributions=true" alt="GitHub Streak" />
-</p>
+</div>
 
 <hr>
 
