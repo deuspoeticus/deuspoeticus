@@ -19,6 +19,8 @@
   <p>
     i do languages
   </p>
+
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical">
   
 </div>
 
