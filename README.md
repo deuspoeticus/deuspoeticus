@@ -10,8 +10,8 @@
 
 <hr>
 
-<h1>> STATS_</h3>
-
+<details open>
+<summary><h2>STATS_</h2></summary>
 <div align="center">
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical">
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deuspoeticus&theme=radical">
@@ -20,12 +20,12 @@
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deuspoeticus&theme=radical">
   <br>
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=deuspoeticus&theme=radical&hide_border=true&border_radius=5&hide_total_contributions=true">
-  
 </div>
+</details>
 
 <hr>
 
-<h1>> TECHNICAL_STACK_</h3>
+<h1>> TECHNICAL_STACK_</h1>
 
 <div align="center">
 
