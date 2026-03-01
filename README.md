@@ -19,8 +19,6 @@
   <p>
     i do languages
   </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=deuspoeticus" alt="Test Stats" />
   
 </div>
 
