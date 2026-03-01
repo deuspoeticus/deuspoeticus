@@ -124,7 +124,7 @@
 <hr>
 
 <div align="center">
-  <code>END_OF_FILE</code>
+  <code>[ END_OF_FILE ] // DEVSPØETICVS; ENFANTDUSIÈCLE; 2026.</code>
 </div>
 
 <hr>
