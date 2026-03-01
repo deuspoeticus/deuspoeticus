@@ -27,7 +27,7 @@
 
 <h1>> TECHNICAL_STACK_</h3>
 
-<div align="left">
+<div align="center">
 
 <p><b>LANGUAGES_</b></p>
 <p>
@@ -79,6 +79,9 @@
 <hr>
 
 <h1>> ARCHIVE // PROJECTS</h3>
+
+<div align="center">
+
 <table width="100%">
   <thead>
     <tr>
@@ -111,13 +114,12 @@
   </tbody>
 </table>
 
+</div>
+
 <hr>
 
 <div align="center">
-  <code>END_OF_FILE // <a href="mailto:deuspoeticus@proton.me">INITIATE_CONTACT</a></code>
-  <br><br>
-  <a href="https://instagram.com/deuspoeticus"><code>[ INSTAGRAM // @deuspoeticus ]</code></a>
-  <a href="https://x.com/deuspoeticus"><code>[ X // @deuspoeticus ]</code></a>
+  <code>END_OF_FILE</code>
 </div>
 
 <hr>
