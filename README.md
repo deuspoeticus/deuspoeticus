@@ -12,7 +12,7 @@
 
 <h1>> STATS_</h3>
 
-<div align="left">
+<div align="center">
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical">
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deuspoeticus&theme=radical">
   <br>
