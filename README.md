@@ -10,8 +10,7 @@
 
 <hr>
 
-<details open>
-<summary><h2>STATS_</h2></summary>
+<h1>STATS_</h1>
 <div align="center">
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical">
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deuspoeticus&theme=radical">
