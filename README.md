@@ -2,22 +2,18 @@
   <img src="./assets/banner-light.svg" alt="DEVSPØETICVS TERMINAL" width="100%">
 </div>
 
-<br><br>
+<br>
+
 <div align="center">
   <p><code>[ SYSTEM_READY ] // INIT: DEVSPØETICVS</code></p>
 </div>
 
-<hr>
-
 <div>
-  <img align="right" src="./assets/chao-750.gif" alt="Clifford Attractor Matrix" width="350" style="border: 1px solid #333; margin-left: 20px; margin-bottom: 20px;">
+  <img align="right" src="./assets/chao-750.gif" alt="Clifford Attractor Matrix" width="360" style="border: 1px solid #333; margin-left: 20px; margin-bottom: 20px;">
 
-  <h2>> IDENTIFICATION</h2>
+  <h3> IDENTIFICATION</h3>
   <p>
-    Bridging the organic and the synthetic through code, poetry, and generative decay. I operate at the intersection of low-level memory manipulation, computational linguistics, and transhumanist digital art. When the syntax breaks, the true aesthetic emerges.
-  </p>
-  <p>
-    <b>Aliases:</b> Ferman Doom // Dekadan Tech // Sentaks Lord
+    Bridging the organic and the synthetic through code, poetry, and generative decay.
   </p>
   <br>
   <p>
@@ -88,7 +84,7 @@
 <br><br>
 
 <div align="center">
-  <p><code>END_OF_FILE // <a href="mailto:omerfarukkarasahan@gmail.com" style="color: inherit; text-decoration: none;">INITIATE_CONTACT</a></code></p>
+  <p><code>END_OF_FILE // <a href="mailto:deuspoeticus@proton.me" style="color: inherit; text-decoration: none;">INITIATE_CONTACT</a></code></p>
   <p>
     <a href="https://instagram.com/deuspoeticus" style="text-decoration: none;">[ INSTAGRAM // @deuspoeticus ]</a>
   </p>
