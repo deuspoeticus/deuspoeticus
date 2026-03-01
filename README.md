@@ -15,8 +15,8 @@
 <div align="left">
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical" />
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deuspoeticus&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deuspoeticus&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deuspoeticus&theme=radical">
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deuspoeticus&theme=radical">
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deuspoeticus&theme=radical">
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=deuspoeticus&theme=radical&hide_border=true&border_radius=5&hide_total_contributions=true" alt="GitHub Streak"/>
 </div>
 
