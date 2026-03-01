@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2>> STATS_</h3>
+<h1>> STATS_</h3>
 
 <div align="left">
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical" />
@@ -19,7 +19,7 @@
 
 <hr>
 
-<h2>> TECHNICAL_STACK</h3>
+<h1>> TECHNICAL_STACK_</h3>
 
 <div align="left">
 
@@ -72,7 +72,7 @@
 
 <hr>
 
-<h2>> ARCHIVE // PROJECTS</h3>
+<h1>> ARCHIVE // PROJECTS</h3>
 <table width="100%">
   <thead>
     <tr>
