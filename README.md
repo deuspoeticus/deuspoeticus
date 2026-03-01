@@ -113,11 +113,15 @@
 
 <hr>
 
-<br>
-
 <div align="center">
   <code>END_OF_FILE // <a href="mailto:deuspoeticus@proton.me">INITIATE_CONTACT</a></code>
   <br><br>
   <a href="https://instagram.com/deuspoeticus"><code>[ INSTAGRAM // @deuspoeticus ]</code></a>
   <a href="https://x.com/deuspoeticus"><code>[ X // @deuspoeticus ]</code></a>
+</div>
+
+<hr>
+
+<div align="center">
+  <img alt="DEVSPØETICVS TERMINAL BANNER" src="./assets/banner-dark.svg" width="100%">
 </div>
