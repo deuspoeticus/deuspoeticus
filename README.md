@@ -16,8 +16,8 @@
 <h2>> STATS_</h3>
 
 <div align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=deuspoeticus&theme=radical&hide_border=true&border_radius=5&hide_total_contributions=true" alt="GitHub Streak" />
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical" />
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=deuspoeticus&theme=radical&hide_border=true&border_radius=5&hide_total_contributions=true" alt="GitHub Streak" />
 </div>
 
 <hr>
