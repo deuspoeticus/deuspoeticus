@@ -1,7 +1,5 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
     <img alt="DEVSPØETICVS TERMINAL BANNER" src="./assets/banner-light.svg" width="100%">
   </picture>
   <br><br>
@@ -10,36 +8,23 @@
 
 <br>
 
-<div>
-  <img align="right" src="./assets/chao-750.gif" alt="Clifford Attractor Matrix visual" width="320" style="border: 1px solid #444; border-radius: 4px; margin: 0 0 20px 20px;">
-
-
-
-  <h3>> IDENTIFICATION</h3>
-  <p>
-    i do languages
-  </p>
-
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical">
+<div align="center">
   
+<img align="center" src="./assets/chao-750.gif" alt="ORDO AB CHAO" width="33%">
 </div>
 
-<br clear="both">
+  <h2>> STATS_</h3>
+
+  <p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deuspoeticus&theme=radical" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=deuspoeticus&theme=radical&hide_border=true&border_radius=5&hide_total_contributions=true" alt="GitHub Streak" />
+</p>
 
 <hr>
 
-<div align="center" ></div>
+<h2 align="center">> TECHNICAL_STACK</h3>
 
-<h3>> CURRENT_DIRECTIVES</h3>
-<ul>
-  <li><code>[ACTIVE]</code> Engineering <b>The Digital Exorcist</b>: A browser-based generative image corruption engine utilizing WebAssembly and local AI models.</li>
-  <li><code>[ACTIVE]</code> Developing a raw, audio-reactive video glitching tool manipulating video packets directly in <b>C</b> via the FFmpeg API.</li>
-  <li><code>[ACTIVE]</code> Building <b>GridSmith</b>, a pixel art editor crafted in JavaScript.</li>
-</ul>
-
-<hr>
-
-<h3>> TECHNICAL_STACK</h3>
+<div align="center" >
 
 <p><b>LANGUAGES_</b></p>
 <p>
@@ -86,9 +71,11 @@
   <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logoColor=white" alt="Web3">
 </p>
 
+</div>
+
 <hr>
 
-<h3>> ARCHIVE // PROJECTS</h3>
+<h2>> ARCHIVE // PROJECTS</h3>
 <table width="100%">
   <thead>
     <tr>
