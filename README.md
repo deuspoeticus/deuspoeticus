@@ -1,17 +1,14 @@
 <div align="center">
-  <picture>
-    <img alt="DEVSPØETICVS TERMINAL BANNER" src="./assets/banner-light.svg" width="100%">
-  </picture>
-  <br><br>
-  <code>[ SYSTEM_READY ] // INIT: DEVSPØETICVS</code>
-</div>
-
-<br>
-
-<div align="center">
+  <img alt="DEVSPØETICVS TERMINAL BANNER" src="./assets/banner-light.svg" width="100%">
+  <hr>
   
-<img align="center" src="./assets/chao-750.gif" alt="ORDO AB CHAO" width="33%">
+  <code>[ SYSTEM_READY ] // INIT: DEVSPØETICVS</code>
+  
+  
+  <img src="./assets/chao-750.gif" alt="ORDO AB CHAO" width="33%">
 </div>
+
+<hr>
 
 <h2>> STATS_</h3>
 
