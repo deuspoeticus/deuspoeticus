@@ -22,9 +22,9 @@
 
 <hr>
 
-<h2 align="center">> TECHNICAL_STACK</h3>
+<h2>> TECHNICAL_STACK</h3>
 
-<div align="center" >
+<div align="left">
 
 <p><b>LANGUAGES_</b></p>
 <p>
