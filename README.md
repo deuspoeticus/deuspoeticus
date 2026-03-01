@@ -1,9 +1,9 @@
 <div align="center">
   <img alt="DEVSPØETICVS TERMINAL BANNER" src="./assets/banner-light.svg" width="100%">
+  
   <hr>
   
   <code>[ SYSTEM_READY ] // INIT: DEVSPØETICVS</code>
-  
   
   <img src="./assets/chao-750.gif" alt="ORDO AB CHAO" width="33%">
 </div>
