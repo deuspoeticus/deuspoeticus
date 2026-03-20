@@ -42,8 +42,9 @@
 <p>
   <img src="https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=webgl&logoColor=990000" alt="WebGL">
   <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte">
-  <img src="https://img.shields.io/badge/p5.js-000000?style=for-the-badge&logo=p5dotjs&logoColor=ED225D" alt="p5.js">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <br>
+  <img src="https://img.shields.io/badge/p5.js-000000?style=for-the-badge&logo=p5dotjs&logoColor=ED225D" alt="p5.js">
   <img src="https://img.shields.io/badge/matter.js-000000?style=for-the-badge&logo=matterdotjs&logoColor=white" alt="matter.js">
   <img src="https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=007808" alt="FFmpeg">
 </p>
