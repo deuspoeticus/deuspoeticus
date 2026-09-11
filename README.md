@@ -51,8 +51,8 @@
 
 <p><b>AI_TOOLKIT_</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude">
   <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claudecode&logoColor=D97757" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude">
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
   <br>
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=ffffff" alt="ElevenLabs">
