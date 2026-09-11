@@ -51,15 +51,12 @@
 
 <p><b>AI_TOOLKIT_</b></p>
 <p>
-
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude">
   <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claudecode&logoColor=D97757" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" alt="Antigravity">
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=#000000" alt="Ollama">
+  <img src="https://img.shields.io/badge/Higgsfield-000000?style=for-the-badge&logoColor=ECD53F" alt="Higgsfield">
   
-  <img src="https://img.shields.io/badge/Nano_Banana_Pro-000000?style=for-the-badge&logoColor=white" alt="Nano Banana Pro">
-  <br>
-  <img src="https://img.shields.io/badge/Veo-000000?style=for-the-badge&logoColor=white" alt="Veo">
-  <img src="https://img.shields.io/badge/Notebook_LM-000000?style=for-the-badge&logoColor=white" alt="Notebook LM">
 </p>
 
 <p><b>CREATIVE_SOFTWARE_</b></p>
