@@ -3,7 +3,7 @@
   
   <hr>
   
-  <code>[ SYSTEM_READY ] // INIT: DEVSPØETICVS</code>
+  <code>INIT: DEVSPØETICVS</code>
   
   <img src="./assets/chao-750.gif" alt="ORDO AB CHAO" width="33%">
 </div>
@@ -51,8 +51,11 @@
 
 <p><b>AI_TOOLKIT_</b></p>
 <p>
+
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claudecode&logoColor=D97757" alt="Claude Code">
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" alt="Antigravity">
+  
   <img src="https://img.shields.io/badge/Nano_Banana_Pro-000000?style=for-the-badge&logoColor=white" alt="Nano Banana Pro">
   <br>
   <img src="https://img.shields.io/badge/Veo-000000?style=for-the-badge&logoColor=white" alt="Veo">
@@ -84,7 +87,7 @@
 <hr>
 
 <div align="center">
-  <code>[ END_OF_FILE ] // DEVSPØETICVS; ENFANTDUSIÈCLE; 2026.</code>
+  <code>DEVSPØETICVS; ENFANTDUSIÈCLE; 2026.</code>
 </div>
 
 <hr>
