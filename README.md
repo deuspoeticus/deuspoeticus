@@ -55,8 +55,8 @@
   <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claudecode&logoColor=D97757" alt="Claude Code">
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
   <br>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=000000" alt="Ollama">
-  <img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=000000" alt="LM Studio">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=ffffff" alt="Ollama">
+  <img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=ffffff" alt="LM Studio">
   <img src="https://img.shields.io/badge/Higgsfield-000000?style=for-the-badge&logoColor=ECD53F" alt="Higgsfield">
   
 </p>
