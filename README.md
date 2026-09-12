@@ -24,7 +24,7 @@
 
 <hr>
 
-<h1>> TECHNICAL_STACK_</h1>
+<h1>>STACK_</h1>
 
 <div align="center">
 
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/WebAssembly-000000?style=for-the-badge&logo=webassembly&logoColor=654FF0" alt="WebAssembly">
 </p>
 
-<p><b>FRAMEWORKS_&_LIBRARIES_</b></p>
+<p><b>LIBRARIES_</b></p>
 <p>
   <img src="https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=webgl&logoColor=990000" alt="WebGL">
   <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte">
@@ -61,7 +61,7 @@
   
 </p>
 
-<p><b>CREATIVE_SOFTWARE_</b></p>
+<p><b>MISC_</b></p>
 <p>
   <img src="https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logoColor=white">
